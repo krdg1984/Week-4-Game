@@ -1,0 +1,13 @@
+.images {
+	height:230px;
+	width:230px;
+}
+
+.container {
+	margin-top:20px;
+}
+
+#instructions {
+	background-color: green;
+	color: white;
+}
